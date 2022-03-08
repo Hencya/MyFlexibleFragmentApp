@@ -6,4 +6,8 @@
     <string name="to_category">Ke Fragment Kategori</string>
     <string name="this_category">Ini Fragment Kategori</string>
     <string name="to_lifestyle_category">Ke Fragment Category Lifestyle</string>
+    <string name="category_name">Nama Kategori</string>
+    <string name="category_desc">Deskripsi Kategori</string>
+    <string name="to_profile">Ke Halaman Profile Fragment</string>
+    <string name="show_dialog">Menampilkan Dialog</string>
 </resources>
