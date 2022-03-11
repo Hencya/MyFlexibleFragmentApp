@@ -10,4 +10,11 @@
     <string name="category_desc">Deskripsi Kategori</string>
     <string name="to_profile">Ke Halaman Profile Fragment</string>
     <string name="show_dialog">Menampilkan Dialog</string>
+    <string name="question_coach">Siapakah Coach Terbaik Manchaster United ?</string>
+    <string name="sir_alex_ferguson">Sir Alex Ferguson</string>
+    <string name="jose_mourinho">Jose Mourinho</string>
+    <string name="louis_van_gaal">Louis Van Gaal</string>
+    <string name="david_moyes">David Moyes</string>
+    <string name="close">Tutup</string>
+    <string name="choose">Pilih</string>
 </resources>
